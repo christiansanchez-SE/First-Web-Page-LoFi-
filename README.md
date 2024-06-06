@@ -1,7 +1,7 @@
 # First Web Page (LoFi Style)
 
 ## Overview
-This project is a rework of an original assignment done at the beginning of the class. The primary goal was to clean up the code and add detailed notes for better understanding and maintenance. The project uses only HTML and CSS.
+This project is a rework of an original assignment done at the beginning of the class on March 1st 2024. The primary goal was to clean up the code and add detailed notes for better understanding and maintenance. The project uses only HTML and CSS.
 
 ## Table of Contents
 - [Project Title](#project-title)
